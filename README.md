@@ -2,7 +2,7 @@
 
 Aarong (Bengali: আড়ং, lit. 'Village Fair') is a social enterprise chain of Bangladeshi department stores specializing in Bengali ethnic wear and handicrafts.
 
-This GitHub repository contains the manual testing documentation (excel file) for  online shopping store of "Aarong" (https://www.aarong.com/). This repository offers essential information and graphics for the manual testing process performed on the aarong.com website. 
+This GitHub repository contains the manual testing documentation (excel file) for online shopping store of "Aarong" (https://www.aarong.com/). This repository offers essential information and graphics for the manual testing process performed on the aarong.com website. 
 
 ### Testing Tools
 
